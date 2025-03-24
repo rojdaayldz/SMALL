@@ -1,4 +1,4 @@
-	GEREKSİNİMLER			
+GEREKSİNİMLER			
 1-Kullanıcı kayıt
 
 2-Kullanıcı giriş
