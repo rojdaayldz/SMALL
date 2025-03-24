@@ -13,7 +13,7 @@
 
 7-Post silme
 
-8-Post güncelleme
+8-Post güncelleme  
 
 
 
