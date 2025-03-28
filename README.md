@@ -25,7 +25,7 @@
 
 3.[Durum Senaryoları](Durum-senaryoları.md)
 
-4.[Durum Diyagramı](diyagram.jpg)
+4.[Durum Diyagramı](https://excalidraw.com/#json=nd1eU0BIvKl6kjizFiNK6,iz2AyMTDjMZZYHGMPFPdLw)
 
 
 
