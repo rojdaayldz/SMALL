@@ -1,5 +1,5 @@
 
-# BURO
+# SMALL
 
 Proje Tanımı:
 Kişisel blog yazılarından profesyonel analizlere kadar geniş bir yelpazede içerik yayınlamaya imkan tanır. Site, yazıların kolayca paylaşılabileceği, takip edilebileceği ve yorum yapılabileceği bir sosyal medya platformu ile geleneksel blog dünyasını birleştirir.
