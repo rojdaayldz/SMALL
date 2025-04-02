@@ -1,23 +1,18 @@
-﻿# GEREKSİNİMLER
-1-Kullanıcı kayıt
 
-2-Kullanıcı giriş
+BURO
+Proje Tanımı:
+Kişisel blog yazılarından profesyonel analizlere kadar geniş bir yelpazede içerik yayınlamaya imkan tanır. Site, yazıların kolayca paylaşılabileceği, takip edilebileceği ve yorum yapılabileceği bir sosyal medya platformu ile geleneksel blog dünyasını birleştirir.
 
-3-Kullanıcı çıkış
+Proje Kategorisi: Web Sitesi
 
-4-Resim Yükleme
+Referans Uygulama: Medıum
 
-5-Video Yükleme
+Uygulama Adresi: https://medium.com/
 
-6-Post atma
+Grup Adı: BURO
 
-7-Post silme
-
-8-Post güncelleme
-
-
-# GEREKSİNİMLER	DAĞILIMI
-
+Proje Ekibi: Rojda Yıldız
+             Buket Karaçalı
 
 1.[Buket Karaçalı gereksinim](buket_gereksinim.md)
 
